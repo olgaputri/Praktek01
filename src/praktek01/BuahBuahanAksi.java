@@ -11,7 +11,9 @@ package praktek01;
  */
 public class BuahBuahanAksi {
     public static void main(String[] args) {
-        
+        BuahBuahan Mangga = new BuahBuahan();
+        BuahBuahan Pisang = new BuahBuahan();
+        BuahBuahan Kelapa = new BuahBuahan();
     }
     
 }
