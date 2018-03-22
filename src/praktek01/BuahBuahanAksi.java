@@ -12,8 +12,31 @@ package praktek01;
 public class BuahBuahanAksi {
     public static void main(String[] args) {
         BuahBuahan Mangga = new BuahBuahan();
+        
+        Mangga.bentuknya="Lonjong";
+        Mangga.rasanya="Manis";
+        Mangga.warnanya="Hijau";
+        Mangga.ukurannya="Sedang";
+        Mangga.kandungannya="Vitamin C";
+        Mangga.caramenanamnya="Tanam Bijinya";
+        
         BuahBuahan Pisang = new BuahBuahan();
+        
+         Mangga.bentuknya="Lonjong Memanjang";
+        Mangga.rasanya="Manis";
+        Mangga.warnanya="Kuning";
+        Mangga.ukurannya="Kecil";
+        Mangga.kandungannya="Vitamin B&C";
+        Mangga.caramenanamnya="Tanam Bibitnya";
+        
         BuahBuahan Kelapa = new BuahBuahan();
+        
+         Mangga.bentuknya="Bundar";
+        Mangga.rasanya="Manis";
+        Mangga.warnanya="Hijau Daging Putih";
+        Mangga.ukurannya="Besar";
+        Mangga.kandungannya="Vitamin A,B&C";
+        Mangga.caramenanamnya="Tanam Tunasnya";
     }
     
 }
