@@ -19,24 +19,26 @@ public class BuahBuahanAksi {
         Mangga.ukurannya="Sedang";
         Mangga.kandungannya="Vitamin C";
         Mangga.caramenanamnya="Tanam Bijinya";
+        Mangga.cetakInfo();
         
         BuahBuahan Pisang = new BuahBuahan();
         
-         Mangga.bentuknya="Lonjong Memanjang";
-        Mangga.rasanya="Manis";
-        Mangga.warnanya="Kuning";
-        Mangga.ukurannya="Kecil";
-        Mangga.kandungannya="Vitamin B&C";
-        Mangga.caramenanamnya="Tanam Bibitnya";
-        
+         Pisang.bentuknya="Lonjong Memanjang";
+        Pisang.rasanya="Manis";
+        Pisang.warnanya="Kuning";
+        Pisang.ukurannya="Kecil";
+        Pisang.kandungannya="Vitamin B&C";
+        Pisang.caramenanamnya="Tanam Bibitnya";
+        Pisang.cetakInfo();
         BuahBuahan Kelapa = new BuahBuahan();
         
-         Mangga.bentuknya="Bundar";
-        Mangga.rasanya="Manis";
-        Mangga.warnanya="Hijau Daging Putih";
-        Mangga.ukurannya="Besar";
-        Mangga.kandungannya="Vitamin A,B&C";
-        Mangga.caramenanamnya="Tanam Tunasnya";
+         Kelapa.bentuknya="Bundar";
+        Kelapa.rasanya="Manis";
+        Kelapa.warnanya="Hijau Daging Putih";
+        Kelapa.ukurannya="Besar";
+        Kelapa.kandungannya="Vitamin A,B&C";
+        Kelapa.caramenanamnya="Tanam Tunasnya";
+        Kelapa.cetakInfo();
     }
     
 }
